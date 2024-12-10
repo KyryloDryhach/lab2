@@ -1,0 +1,8 @@
+.external-style {
+    color: darkorange;
+    font-weight: bold;
+    font-size: 18px;
+    border: 1px dashed orange;
+    padding: 10px;
+    text-align: center;
+}
